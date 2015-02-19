@@ -18,22 +18,24 @@
 	margin-top: 15px;
 }
 footer{
-  padding-top: 15px;
-padding-bottom: 15px;
-text-align: center;
-opacity: .8;
-position: absolute;
-bottom:0;
-left:0;
-right:0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    opacity: .8;
+    float: left;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
 .contact{
-    background-color: #f8f8f8;
+    background-color: rgba(84, 84, 84, 0.81);
     opacity: .8;
     margin-bottom: 40px;
     margin-top: 40px;
-
+    border-radius: 5px;
 }
+
 #contact-page{
      background-image: url('../img/mtnfield.jpg');
     background-position: center center;
@@ -57,4 +59,26 @@ h3{
     text-align: center;
     font-weight: bold;
 
+}
+
+.nopaddingright {
+    padding-right: 0;
+}
+
+.nopaddingleft {
+    padding-left: 0;
+}
+
+@media (max-width: 450px){
+    footer{
+        position: inherit;
+    }
+    .nopaddingleft {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .nopaddingright {
+        padding-right: 0;
+        padding-left: 0;
+    }
 }

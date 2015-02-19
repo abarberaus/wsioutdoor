@@ -1,4 +1,4 @@
-.col-lg-9{
+/*.col-lg-9{
 	border: 2px;
 	border-color: black;
 	background-color: #A8A8A8;
@@ -17,11 +17,6 @@
     /* inline-block space fix */
     margin-right:-4px;
 }
-.myfooter {
-    height: 80px;
-    width: 100%;
-    bottom: inherit;
-}
 
 .smith_logo {
     padding-top: 20px;
@@ -35,13 +30,19 @@
     background-color: #E6E7E9;
 }
 
-.download_box div p, a {
+.download_box > div > p {
     display: inline-block;
     font-size: large;
     margin: 0;
 }
 
-.download_box div p {
+.download_box > div > a {
+    display: inline-block;
+    font-size: large;
+    margin: 0;
+}
+
+.download_box > div > p {
     color: #171718;
     padding: 5px 23px 5px 9px;
 }
@@ -53,3 +54,10 @@
     background-color: #fff;
 }
 
+.changeopacity {
+    background-color: rgba(0,0,0, 0.6);
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+}
