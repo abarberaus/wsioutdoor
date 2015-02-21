@@ -71,3 +71,9 @@
     padding-top: 20px;
     width: 20%;
 }
+
+.margins {
+    margin-top: -20px;
+    margin-bottom: -30px;
+    width: 45%
+}
