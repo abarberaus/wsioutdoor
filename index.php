@@ -25,7 +25,7 @@
         <![endif]-->
     </head>
     <body>
-        <!-- Navigation -->
+<!-- Navigation -->
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
@@ -71,6 +71,13 @@
         </nav>
         <!-- Header -->
         <div class="intro-header img-responsive">
+	<?php
+		if(isset($message)){ echo 'contact us for password'; }
+	?>
+	<form action="auth.php" method="post">
+		<input type="text" name="username"><input type="text" name="password"><input type="submit"/>	
+	</form>
+        
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 dark_opacity">
