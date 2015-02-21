@@ -27,19 +27,17 @@ div.img-div{
     -webkit-transform:translate(-50%);
     margin-left:100px;
 }
+
 .content-section-a{
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
 .content-section-b{
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-.dropdown-toggle{
-  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-  background-color: #90D8A0;
-  text-transform: uppercase;
-}
+
 .item{
  max-height: px;
 }
