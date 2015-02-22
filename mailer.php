@@ -31,7 +31,7 @@ $message
 ";
 
 /* Send the message using mail() function */
-mail($myemail, $subject, $message, $headers);﻿
+mail($myemail, $subject, $message);﻿
 
 /* Redirect visitor to the thank you page */
 header('Location: http://www.makeemfeelweird.com');
