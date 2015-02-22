@@ -29,7 +29,7 @@ footer{
 }
 .contact{
     background-color: rgba(84, 84, 84, 0.81);
-    opacity: .9;
+    opacity: .95;
     margin-bottom: 40px;
     margin-top: 40px;
     border-radius: 5px;
@@ -80,8 +80,20 @@ h3{
         padding-right: 0;
         padding-left: 0;
     }
+    #password{
+    position:relative;
+    top:-40px;    
+}
 }
 
 .contact_footer {
     position: fixed;
+}
+.pwrequest{
+    font-size: 1.25em;
+    font-weight:bold;
+}
+#password{
+    position:relative;
+    top:65px;    
 }
