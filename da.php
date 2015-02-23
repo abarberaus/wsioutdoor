@@ -133,7 +133,7 @@
                     <!-- /.banner -->
         </div>
                     <!-- Footer -->
-                <footer class="footer myfooter">
+                <footer class="footer myfooter contact_footer">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12">

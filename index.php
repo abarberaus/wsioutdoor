@@ -98,7 +98,7 @@
                 <h1>Our Brands</h1>
                 <div class="row">
                     <div class="col-xs-6 col-md-4">
-                        <a href="#" class="thumbnail">
+                        <a class="thumbnail">
                             <img src="img/Smith_Logo_Primary_Final.png" class="smith">
                         </a>
                     </div>
@@ -106,7 +106,7 @@
                     
                     
                     <div class="col-xs-6 col-md-4">
-                        <a href="#" class="thumbnail">
+                        <a class="thumbnail">
                             <img src="img/arcteryxlogo.png">
                         </a>
                     </div>
@@ -114,20 +114,20 @@
                     
                     
                     <div class="col-xs-6 col-md-4">
-                        <a href="#" class="thumbnail">
+                        <a class="thumbnail">
                             <img src="img/reef.jpg">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div id="centerthebottom" class="col-xs-6 col-md-6">
-                        <a href="#" class="thumbnail">
+                        <a class="thumbnail">
                             <img src="img/hotchillyslogo.png">
                         </a>
                     </div>
                     
                     <div class="col-xs-6 col-md-6">
-                        <a href="#" class="thumbnail">
+                        <a class="thumbnail">
                             <img src="img/OTlogo.jpg">
                         </a>
                     </div>
