@@ -1,3 +1,5 @@
+<?php include("C:\\Users\\user\\Desktop\\JakesClasses\\SURVEY_CLASS\\HTML Website\\WSI_Outdoor_Final\\wsioutdoor\\password_protect.php");?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,32 +39,28 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">WSI Outdoor</a>
+                    <a class="navbar-brand" href="index.php">WSI Outdoor</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="index.html#brands">Our Brands</a>
+                            <a href="index.php#brands">Our Brands</a>
                         </li>
                         <li>
-                            <a href="index.html#team">Our Team</a>
+                            <a href="index.php#team">Our Team</a>
                         </li>
                         <li>
-                            <a href="index.html#showroom">Our Showroom</a>
-                        </li>
-                        <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dealer Access<span class="caret"></span></a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="arcteryx.html">Arc'teryx</a></li>
-                            <li><a href="smith.html">Smith Optics</a></li>
-                            <li><a href="reef.html">Reef Footwear</a></li>
-                            <li><a href="hotchillys.html">Hot Chillys</a></li>
-                            <li><a href="ot.html">Outdoor Tech</a></li>
-                          </ul>
+                            <a href="index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                            <a href="contact.html">Contact</a>
+                          <a href="da.php">Dealer Access</a>
+                        </li>
+                        <li>
+                            <a href="contact.php">Contact</a>
+                        </li>
+                        <li>
+                            <a href="http://localhost/WSI_Outdoor_Final/wsioutdoor/da.php?logout=1">Logout</a>
                         </li>
                     </ul>
                 </div>
@@ -83,7 +81,7 @@
                 <h1>Click the Brand for Dealer Page</h1>
                 <div class="row">
                     <div class="col-xs-6 col-md-4">
-                        <a href="smith.html" class="thumbnail">
+                        <a href="smith.php" class="thumbnail">
                             <img src="img/Smith_Logo_Primary_Final.png" class="smith">
                         </a>
                     </div>
@@ -91,7 +89,7 @@
                     
                     
                     <div class="col-xs-6 col-md-4">
-                        <a href="arcteryx.html" class="thumbnail">
+                        <a href="arcteryx.php" class="thumbnail">
                             <img src="img/arcteryxlogo.png">
                         </a>
                     </div>
@@ -99,20 +97,20 @@
                     
                     
                     <div class="col-xs-6 col-md-4">
-                        <a href="reef.html" class="thumbnail">
+                        <a href="reef.php" class="thumbnail">
                             <img src="img/reef.jpg">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div id="centerthebottom" class="col-xs-6 col-md-6">
-                        <a href="hotchillys.html" class="thumbnail">
+                        <a href="hotchillys.php" class="thumbnail">
                             <img src="img/hotchillyslogo.png">
                         </a>
                     </div>
                     
                     <div class="col-xs-6 col-md-6">
-                        <a href="ot.html" class="thumbnail">
+                        <a href="ot.php" class="thumbnail">
                             <img src="img/OTlogo.jpg">
                         </a>
                     </div>
@@ -141,19 +139,19 @@
                                 <div class="col-lg-12">
                                     <ul class="list-inline">
                                         <li>
-                                            <a href="index.html#home">Home</a>
+                                            <a href="index.php#home">Home</a>
                                         </li>
                                         <li class="footer-menu-divider">&sdot;</li>
                                         <li>
-                                            <a href="index.html#brands">Our Brands</a>
+                                            <a href="index.php#brands">Our Brands</a>
                                         </li>
                                         <li class="footer-menu-divider">&sdot;</li>
                                         <li>
-                                            <a href="index.html#team">Our Team</a>
+                                            <a href="index.php#team">Our Team</a>
                                         </li>
                                         <li class="footer-menu-divider">&sdot;</li>
                                         <li>
-                                            <a href="#contact">Contact</a>
+                                            <a href="contact.php">Contact</a>
                                         </li>
                                     </ul>
                                     <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>

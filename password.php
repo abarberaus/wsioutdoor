@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,32 +39,25 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">WSI Outdoor</a>
+                    <a class="navbar-brand" href="index.php">WSI Outdoor</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="index.html#brands">Our Brands</a>
+                            <a href="index.php#brands">Our Brands</a>
                         </li>
                         <li>
-                            <a href="index.html#team">Our Team</a>
+                            <a href="index.php#team">Our Team</a>
                         </li>
                         <li>
-                            <a href="index.html#showroom">Our Showroom</a>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dealer Access<span class="caret"></span></a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="arcteryx.html">Arc'teryx</a></li>
-                                <li><a href="smith.html">Smith Optics</a></li>
-                                <li><a href="reef.html">Reef Footwear</a></li>
-                                <li><a href="hotchillys.html">Hot Chillys</a></li>
-                                <li><a href="ot.html">Outdoor Tech</a></li>
-                            </ul>
+                            <a href="index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                            <a href="contact.html">Contact</a>
+                          <a href="da.php">Dealer Access</a>
+                        </li>
+                        <li>
+                            <a href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -88,8 +83,7 @@
                                         <br>
                                     </address>
                                 </div>
-                                
-                                <form>
+                                <form action="auth.php" method="POST">
                                     <div class="col-sm-8 contact-form" id="password">
                                         <div class="form-group">
                                             <label for="exampleInputPassword1">Password</label>
@@ -103,7 +97,6 @@
                                         </div>
                                     </div>
                                     </form>
-                                
                             </div>
                             
                         </div>

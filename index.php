@@ -25,7 +25,7 @@
         <![endif]-->
     </head>
     <body>
-<!-- Navigation -->
+        <!-- Navigation -->
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
@@ -50,18 +50,8 @@
                         <li>
                             <a href="#showroom">Our Showroom</a>
                         </li>
-                        <li class="dropdown">
-                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dealer Access<span class="caret"></span></a>
-                          <ul class="dropdown-menu" role="menu">
-                            <li><a href="arcteryx.html">Arc'teryx</a></li>
-                            <li><a href="smith.html">Smith Optics</a></li>
-                            <li><a href="reef.html">Reef Footwear</a></li>
-                            <li><a href="hotchillys.html">Hot Chillys</a></li>
-                            <li><a href="ot.html">Outdoor Tech</a></li>
-                          </ul>
-                        </li>
                         <li>
-                            <a href="contact.html">Contact</a>
+                            <a href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -71,13 +61,6 @@
         </nav>
         <!-- Header -->
         <div class="intro-header img-responsive">
-	<?php
-		if(isset($message)){ echo 'contact us for password'; }
-	?>
-	<form action="auth.php" method="post">
-		<input type="text" name="username"><input type="text" name="password"><input type="submit"/>	
-	</form>
-        
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 dark_opacity">
@@ -98,18 +81,8 @@
                                     <span class="network-name">Our Showroom</span></a>
                                 </li>
                                 <li>
-                                    <div class="btn-group">
-                                        <button type="button" class="btn btn-default btn-lg dropdown-toggle" data-toggle="dropdown" id="dealeraccess">
-                                        Dealer Access <span class="caret"></span>
-                                        </button>
-                                        <ul class="dropdown-menu" role="menu">
-                                            <li><a href="arcteryx.html">Arc'teryx</a></li>
-                                            <li><a href="smith.html">Smith Optics</a></li>
-                                            <li><a href="reef.html">Reef Footwear</a></li>
-                                            <li><a href="hotchillys.html">Hot Chillys</a></li>
-                                            <li><a href="ot.html">Outdoor Tech</a></li>
-                                        </ul>
-                                    </div>
+                                    <a href="da.php" class="btn btn-default btn-lg">
+                                    <span class="network-name">Dealer Access</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -142,7 +115,7 @@
                     
                     <div class="col-xs-6 col-md-4">
                         <a href="#" class="thumbnail">
-                            <img src="img/Reef.jpg">
+                            <img src="img/reef.jpg">
                         </a>
                     </div>
                 </div>
@@ -180,7 +153,7 @@
                             <div class="caption">
                                 <h3>Wade Windom</h3>
                                 <h4>Principal Rep.</h4>
-                                <p class="disappearsmall">Started repping in 1995 a few years after graduating college. Incorporated into WSI in 2001.  While I had no idea at the time, this was the best decision I have ever made.  I truly love what I do and I am honored to have such great partners.</p>
+                                <p class="disappearsmall">Wade started repping in 1995 a few years after graduating college. He incorporated into WSI in 2001.  While he had no idea at the time, this was the best decision he have ever made.  He truly loves what he does and is honored to have such great partners.</p>
                                 <p><a href="mailto:wade@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                             </div>
                         </div>
@@ -193,9 +166,9 @@
                             <div class="caption">
                                 <h3>Tom Westveld</h3>
                                 <h4>Sales Rep.</h4>
-                                <p class="disappearsmall">Joined WSI in April 2006.
-                                Tom has enjoyed a lifelong career in the sports and outdoor industry. He enjoys travel, any outdoor activity, motorcycles and holds a Private Pilots License.
-                                Tom and his wife Holly reside in Austin, TX.</p>
+                                <p class="disappearsmall">Tom joined WSI in April 2006.
+                                He has enjoyed a lifelong career in the sports and outdoor industry. He enjoys travel, any outdoor activity, motorcycles, and holds a Private Pilot's License.
+                                Tom and his wife, Holly, reside in Austin, Texas.</p>
                                 <p><a href="mailto:tom@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                             </div>
                         </div>
@@ -208,7 +181,7 @@
                             <div class="caption">
                                 <h3>Aaron Barber</h3>
                                 <h4>Sales Rep.</h4>
-                                <p class="disappearsmall">Started with WSI Outdoor in 2009.
+                                <p class="disappearsmall">Aaron started with WSI Outdoor in 2009.
                                 He loves climbing in Oregon, surfing in El Salvador and enjoying live music everywhere. You can usually find him on a bike.
                                 He lives with his wife, Kate, in downtown Austin.</p>
                                 <p><a href="mailto:aaron@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
@@ -229,7 +202,7 @@
                                 <h4>Sales Rep.</h4>
                                 <p class="disappearsmall">Ashlee joined WSI in 2012.
                                 She enjoys fishing, photography and camping.
-                                An avid traveler, Ashlee now calls Austin, TX home.</p>
+                                An avid traveler, Ashlee now calls Austin, Texas home.</p>
                                 <p><a href="mailto:ashlee@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                             </div>
                         </div>
@@ -241,9 +214,9 @@
                             </div>
                             <div class="caption">
                                 <h3>Carmen Zamzow Hart</h3>
-                                <h4>Support</h4>
+                                <h4>Agency Support Manager</h4>
                                 <p class="disappearsmall">Joined the team in 2011.
-                                Originally an Idaho native, Carmen now resides in Denver CO with her husband Bret. She love traveling, skiing, and soccer.</p>
+                                Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She love traveling, skiing, and soccer.</p>
                                 <p><a href="mailto:cgzamzow@gmail.com" class="btn btn-primary" role="button">Contact</a>
                             </div>
                         </div>
@@ -347,7 +320,7 @@
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#">Dealer Access</a>
+                            <a href="password.php">Dealer Access</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>

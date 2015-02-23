@@ -1,9 +1,6 @@
-<?php
-	include('check_auth.php');
-?>
+<?php include("C:\\Users\\user\\Desktop\\JakesClasses\\SURVEY_CLASS\\HTML Website\\WSI_Outdoor_Final\\wsioutdoor\\password_protect.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
