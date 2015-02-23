@@ -1,4 +1,4 @@
-<?php include("http://www.wsioutdoor.com\\password_protect.php"); ?>
+<?php include("/var/www/wsioutdoor/password_protect.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
