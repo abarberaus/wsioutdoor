@@ -56,10 +56,10 @@ $LOGIN_INFORMATION = array(
 define('USE_USERNAME', false);
 
 // User will be redirected to this page after logout
-define('LOGOUT_URL', 'http://localhost/WSI_Outdoor_Final/wsioutdoor/');
+define('LOGOUT_URL', 'http://www.wsioutdoor.com/');
 
 // time out after NN minutes of inactivity. Set to 0 to not timeout
-define('TIMEOUT_MINUTES', 0);
+define('TIMEOUT_MINUTES', 15);
 
 // This parameter is only useful when TIMEOUT_MINUTES is not zero
 // true - timeout time from last activity, false - timeout time from login
@@ -134,25 +134,25 @@ function showLoginPasswordProtect($error_msg) {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php">WSI Outdoor</a>
+                    <a class="navbar-brand" href="http://www.wsioutdoor.com">WSI Outdoor</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="index.php#brands">Our Brands</a>
+                            <a href="http://www.wsioutdoor.com/index.php#brands">Our Brands</a>
                         </li>
                         <li>
-                            <a href="index.php#team">Our Team</a>
+                            <a href="http://www.wsioutdoor.com/index.php#team">Our Team</a>
                         </li>
                         <li>
-                            <a href="index.php#showroom">Our Showroom</a>
+                            <a href="http://www.wsioutdoor.com/index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="da.php">Dealer Access</a>
+                          <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact</a>
+                            <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -203,32 +203,32 @@ function showLoginPasswordProtect($error_msg) {
             <!-- /.banner -->
         </div>
         <!-- Footer -->
-        <footer class="contact_footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <ul class="list-inline">
-                            <li>
-                                <a href="index.php#home">Home</a>
-                            </li>
-                            <li class="footer-menu-divider">&sdot;</li>
-                            <li>
-                                <a href="index.php#brands">Our Brands</a>
-                            </li>
-                            <li class="footer-menu-divider">&sdot;</li>
-                            <li>
-                                <a href="index.php#team">Our Team</a>
-                            </li>
-                            <li class="footer-menu-divider">&sdot;</li>
-                            <li>
-                                <a href="#contact">Contact</a>
-                            </li>
-                        </ul>
-                        <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
+                <footer class="footer myfooter">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <ul class="list-inline">
+                                    <li>
+                                        <a href="http://www.wsioutdoor.com/">Home</a>
+                                    </li>
+                                    <li class="footer-menu-divider">&sdot;</li>
+                                    <li>
+                                        <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
+                                    </li>
+                                    <li class="footer-menu-divider">&sdot;</li>
+                                    <li>
+                                        <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
+                                    </li>
+                                    <li class="footer-menu-divider">&sdot;</li>
+                                    <li>
+                                        <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
+                                    </li>
+                                </ul>
+                                <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
-        </footer>
+                </footer>
         <!-- jQuery Version 1.11.0 -->
         <script src="js/jquery-1.11.0.js"></script>
         <!-- Bootstrap Core JavaScript -->

@@ -51,7 +51,7 @@
                             <a href="#showroom">Our Showroom</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact</a>
+                            <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -81,7 +81,7 @@
                                     <span class="network-name">Our Showroom</span></a>
                                 </li>
                                 <li>
-                                    <a href="da.php" class="btn btn-default btn-lg">
+                                    <a href="http://www.wsioutdoor.com/da.php" class="btn btn-default btn-lg">
                                     <span class="network-name">Dealer Access</span></a>
                                 </li>
                             </ul>
@@ -320,11 +320,11 @@
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="password.php">Dealer Access</a>
+                            <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#contact">Contact</a>
+                            <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
                         </li>
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>

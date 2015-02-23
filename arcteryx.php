@@ -1,4 +1,4 @@
-<?php include("C:\\Users\\user\\Desktop\\JakesClasses\\SURVEY_CLASS\\HTML Website\\WSI_Outdoor_Final\\wsioutdoor\\password_protect.php"); ?>
+<?php include("http://www.wsioutdoor.com\\password_protect.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -39,25 +39,28 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php">WSI Outdoor</a>
+                    <a class="navbar-brand" href="http://www.wsioutdoor.com">WSI Outdoor</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="index.php#brands">Our Brands</a>
+                            <a href="http://www.wsioutdoor.com/index.php#brands">Our Brands</a>
                         </li>
                         <li>
-                            <a href="index.php#team">Our Team</a>
+                            <a href="http://www.wsioutdoor.com/index.php#team">Our Team</a>
                         </li>
                         <li>
-                            <a href="index.php#showroom">Our Showroom</a>
+                            <a href="http://www.wsioutdoor.com/index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="da.php">Dealer Access</a>
+                          <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact</a>
+                            <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
+                        </li>
+                        <li>
+                            <a href="http://www.wsioutdoor.com/da.php?logout=1">Logout</a>
                         </li>
                     </ul>
                 </div>
@@ -97,19 +100,19 @@
                             <div class="col-lg-12">
                                 <ul class="list-inline">
                                     <li>
-                                        <a href="index.html">Home</a>
+                                        <a href="http://www.wsioutdoor.com/">Home</a>
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="index.html#brands">Our Brands</a>
+                                        <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="index.html#team">Our Team</a>
+                                        <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
                                     </li>
                                 </ul>
                                 <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
