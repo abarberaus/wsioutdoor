@@ -84,6 +84,8 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
+                        <br>
+                        <br>
                         <div>
                             <h4 style="margin-top: 0;">Fall 15 Footwear</h4>
                             <iframe width="400" height="155" src="//e.issuu.com/embed.html#12522436/11563695" frameborder="0" allowfullscreen></iframe>
