@@ -54,7 +54,7 @@
                             <a href="http://www.wsioutdoor.com/index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
+                            <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li>
                             <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
@@ -84,8 +84,10 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
-                        <iframe width="400" height="309" src="//e.issuu.com/embed.html#12522436/11563474" frameborder="0" allowfullscreen></iframe>
-                        <iframe width="400" height="309" src="//e.issuu.com/embed.html#12522436/11563474" frameborder="0" allowfullscreen></iframe>
+                        <div
+                            data-configid="12522436/11563433" style="width:525px; height:406px;" class="issuuembed">
+                        </div>
+                        <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     </div>
                     </div><!-- /.container -->
                 </div>
