@@ -84,7 +84,7 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
-                        <div data-configid="12522436/11563433" style="width:525px; height:406px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+                        <iframe width="400" height="309" src="//e.issuu.com/embed.html#12522436/11563474" frameborder="0" allowfullscreen></iframe>
                     </div>
                     </div><!-- /.container -->
                 </div>
