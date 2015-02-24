@@ -85,6 +85,7 @@
                             </div>
                         </div>
                         <iframe width="400" height="309" src="//e.issuu.com/embed.html#12522436/11563474" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="400" height="309" src="//e.issuu.com/embed.html#12522436/11563474" frameborder="0" allowfullscreen></iframe>
                     </div>
                     </div><!-- /.container -->
                 </div>
