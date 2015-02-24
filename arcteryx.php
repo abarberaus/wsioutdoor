@@ -84,7 +84,10 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
-                        <iframe width="400" height="155" src="//e.issuu.com/embed.html#12522436/11563651" frameborder="0" allowfullscreen></iframe>
+                        <div class="video-container">
+                        <iframe width="400" height="155" src="//e.issuu.com/embed.html#12522436/11563695" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="400" height="151" src="//e.issuu.com/embed.html#12522436/11563672" frameborder="0" allowfullscreen></iframe>
+                        </div>
                     </div>
                     </div><!-- /.container -->
                 </div>
