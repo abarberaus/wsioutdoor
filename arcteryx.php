@@ -54,7 +54,7 @@
                             <a href="http://www.wsioutdoor.com/index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
+                            <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li>
                             <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
@@ -84,9 +84,11 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
-                        <div class="video-container">
-                        <iframe width="400" height="155" src="//e.issuu.com/embed.html#12522436/11563695" frameborder="0" allowfullscreen></iframe>
-                        <iframe width="400" height="151" src="//e.issuu.com/embed.html#12522436/11563672" frameborder="0" allowfullscreen></iframe>
+                        <div>
+                            <h4 style="margin-top: 0;">Fall 15 Footwear</h4>
+                            <iframe width="400" height="155" src="//e.issuu.com/embed.html#12522436/11563695" frameborder="0" allowfullscreen></iframe>
+                            <h4 style="margin-top: 0;">Fall 15 Apparel and Hardgoods</h4>
+                            <iframe width="400" height="151" src="//e.issuu.com/embed.html#12522436/11563672" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
                     </div><!-- /.container -->
