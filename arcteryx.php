@@ -85,7 +85,6 @@
                             </div>
                         </div>
                         <div data-configid="12522436/11563433" style="width:525px; height:406px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
-
                     </div>
                     </div><!-- /.container -->
                 </div>
