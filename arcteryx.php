@@ -84,9 +84,8 @@
                                 <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
                             </div>
                         </div>
-                        
-                        <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=ca0b3617-06be-41e3-97d9-3a656141c577&amp;theme=theme3">
-                        </iframe>
+                        <div data-configid="12522436/11563433" style="width:525px; height:406px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
                     </div>
                     </div><!-- /.container -->
                 </div>
