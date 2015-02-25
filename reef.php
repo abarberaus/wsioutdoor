@@ -85,8 +85,8 @@
                             </div>
                         </div>
                         
-                        <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=c98e3a99-1a07-498f-acd3-683db8c270c3">
-</iframe>
+                        <!-- <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=c98e3a99-1a07-498f-acd3-683db8c270c3">
+</iframe> -->
                         
                     </div>
                     </div><!-- /.container -->
