@@ -79,10 +79,12 @@
                         <h4><a  style="margin-top: 0;" href="mailto:lward@smithoptics.com" data-rel="external">lward@smithoptics.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:12087276581" data-rel="external">+1 (208) 727-6581</a></h4>
                         <div class="download_box col-lg-9 col-centered">
-                            <div class="around">
-                                <p>Find Dealer Documents Here</p>
-                                <a href="https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0"><img id="download" src="img/download.png"></a>
-                            </div>
+                            <a href="https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">
+                                <div class="around">
+                                    <p>Find Dealer Documents Here</p>
+                                    <img id="download" src="img/download.png">
+                                </div>
+                            </a>
                         </div>
                         <!--Original Shelf!> <iframe id="bloxFrame" name="bloxFrame" height="300px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663">
                         </iframe> </!-->

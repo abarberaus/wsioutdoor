@@ -30,21 +30,21 @@
     background-color: #E6E7E9;
 }
 
-.download_box > div > p {
+div.download_box.col-lg-9.col-centered > a > div > p {
     display: inline-block;
     font-size: large;
     margin: 0;
 }
 
-.download_box > div > a {
+.download_box > a {
     display: inline-block;
     font-size: large;
     margin: 0;
 }
 
-.download_box > div > p {
+div.download_box.col-lg-9.col-centered > a > div > p {
     color: #171718;
-    padding: 5px 23px 5px 9px;
+    padding: 5px 22px 5px 9px;
 }
 
 .around {

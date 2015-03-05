@@ -89,6 +89,13 @@ h3{
 .contact_footer {
     position: fixed;
 }
+
+@media (max-width: 768px) {
+    .contact_footer {
+        position: inherit;
+    }
+}
+
 .pwrequest{
     font-size: 1.25em;
     font-weight:bold;

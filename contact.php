@@ -161,7 +161,7 @@
                                 <div class="col-lg-12">
                                     <ul class="list-inline">
                                         <li>
-                                            <a href="index.html#home">Home</a>
+                                            <a href="http://www.wsioutdoor.com/">Home</a>
                                         </li>
                                         <li class="footer-menu-divider">&sdot;</li>
                                         <li>

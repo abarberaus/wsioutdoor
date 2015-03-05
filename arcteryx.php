@@ -79,10 +79,12 @@
                         <h4><a  style="margin-top: 0;" href="mailto:nicholas.tam@arcteryx.com" data-rel="external">nicholas.tam@arcteryx.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18662391099" data-rel="external">+1 (604) 960-3404</a></h4>
                         <div class="download_box col-lg-9 col-centered">
-                            <div class="around">
-                                <p>Find Dealer Documents Here</p>
-                                <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0"><img id="download" src="img/download.png"></a>
-                            </div>
+                            <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0">
+                                <div class="around">
+                                    <p>Find Dealer Documents Here</p>
+                                    <img id="download" src="img/download.png">
+                                </div>
+                            </a>
                         </div>
                         <br>
                         <br>

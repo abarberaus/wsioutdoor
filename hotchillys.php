@@ -79,10 +79,12 @@
                         <h4><a  style="margin-top: 0;" href="mailto:EMAILADDRESS" data-rel="external">EMAIL ADDRESS</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:PHONE" data-rel="external">PHONE</a></h4> -->
                         <div class="download_box col-lg-9 col-centered">
-                            <div class="around">
-                                <p>Find Dealer Documents Here</p>
-                                <a href="https://www.dropbox.com/sh/p1aqxicm7k0ckm1/AACuYL28iMbDupwSN81gIMCga?dl=0"><img id="download" src="img/download.png"></a>
-                            </div>
+                            <a href="https://www.dropbox.com/sh/p1aqxicm7k0ckm1/AACuYL28iMbDupwSN81gIMCga?dl=0">
+                                <div class="around">
+                                    <p>Find Dealer Documents Here</p>
+                                    <img id="download" src="img/download.png">
+                                </div>
+                            </a>
                         </div>
                         <!--iframe placeholder--
                         <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663&amp;theme=theme3">

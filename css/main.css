@@ -23,11 +23,6 @@ div.img-div{
     border-radius:50%;
 }
 
-.img-div img{
-    -webkit-transform:translate(-50%);
-    margin-left:100px;
-}
-
 .content-section-a{
 	padding-top: 10px;
 	padding-bottom: 10px;

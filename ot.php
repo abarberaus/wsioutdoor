@@ -79,10 +79,12 @@
                         <h4><a  style="margin-top: 0;" href="mailto:sofi@outdoortech.com" data-rel="external">sofi@outdoortech.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:23102997764" data-rel="external">+1 (310) 299-7764</a></h4>
                         <div class="download_box col-lg-9 col-centered">
-                            <div class="around">
-                                <p>Find Dealer Documents Here</p>
-                                <a href="https://www.dropbox.com/sh/8y6xlpeqgciggi3/AADP7iMiFXVc-EAyPst1pfBka?dl=0"><img id="download" src="img/download.png"></a>
-                            </div>
+                            <a href="https://www.dropbox.com/sh/8y6xlpeqgciggi3/AADP7iMiFXVc-EAyPst1pfBka?dl=0">
+                                <div class="around">
+                                    <p>Find Dealer Documents Here</p>
+                                    <img id="download" src="img/download.png">
+                                </div>
+                            </a>
                         </div>
                         <iframe width="560" height="300" frameborder="0" src="http://enewspaper.makemynewspaper.com/embed/62/outdoortech/odt-winter-catalog/56/49967_1/2513/3188"></iframe>
                     </div>

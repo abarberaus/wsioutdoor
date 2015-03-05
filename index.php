@@ -216,7 +216,7 @@
                                 <h3>Carmen Zamzow Hart</h3>
                                 <h4>Agency Support Manager</h4>
                                 <p class="disappearsmall">Joined the team in 2011.
-                                Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She love traveling, skiing, and soccer.</p>
+                                Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She loves traveling, skiing, and soccer.</p>
                                 <p><a href="mailto:cgzamzow@gmail.com" class="btn btn-primary" role="button">Contact</a>
                             </div>
                         </div>
@@ -308,7 +308,7 @@
                 <div class="col-lg-12">
                     <ul class="list-inline">
                         <li>
-                            <a href="#home">Home</a>
+                            <a href="http://www.wsioutdoor.com/">Home</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>

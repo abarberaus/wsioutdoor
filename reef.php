@@ -79,10 +79,12 @@
                         <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">crystal_gauthier@vfc.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18004236855 ext. 1985" data-rel="external">+1 (800) 423 6855 Ext. 1985</a></h4>
                         <div class="download_box col-lg-9 col-centered">
-                            <div class="around">
-                                <p>Find Dealer Documents Here</p>
-                                <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0"><img id="download" src="img/download.png"></a>
-                            </div>
+                            <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0">
+                                <div class="around">
+                                    <p>Find Dealer Documents Here</p>
+                                    <img id="download" src="img/download.png">
+                                </div>
+                            </a>
                         </div>
                         
                         <!-- <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=c98e3a99-1a07-498f-acd3-683db8c270c3">
