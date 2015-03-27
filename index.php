@@ -294,7 +294,7 @@
                             <a target="_blank" href="https://www.facebook.com/wsioutdoorpage" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a target="_blank" href="http://instagram.com/windomoutdoor" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
+                            <a target="_blank" href="http://instagram.com/wsioutdoor" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-fw"></i> <span class="network-name">Instagram</span></a>
                         </li>
                     </ul>
                 </div>
