@@ -148,7 +148,7 @@
                     <div class="col-sm-6 col-md-4">
                         <div class="thumbnail">
                             <div class="img-div">
-                                <img src="img/wade.jpg" />
+                                <img src="img/wade.jpg" style="height: 100%;margin-left: -34px;" />
                             </div>
                             <div class="caption">
                                 <h3>Wade Windom</h3>
@@ -176,7 +176,7 @@
                     <div class="col-sm-6 col-md-4">
                         <div class="thumbnail">
                             <div class="img-div">
-                                <img src="img/aaron.jpg" />
+                                <img src="img/aaron.jpg" style="margin-left: -50px;"/>
                             </div>
                             <div class="caption">
                                 <h3>Aaron Barber</h3>
