@@ -278,9 +278,9 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="img/keen.jpeg" alt="...">
+                                <img src="img/reef.jpeg" alt="...">
                                 <div class="carousel-caption">
-                                    KEEN Footwear
+                                    REEF
                                 </div>
                             </div>
                             <div class="item">
