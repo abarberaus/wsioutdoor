@@ -222,7 +222,7 @@
                                         <div class="caption">
                                             <h3>Ryan Folkes</h3>
                                             <h4>Sales Rep.</h4>
-                                            <p class="disappearsmall">Ryan lives in the Fayetteville, Arkansas area, and will represent Smith in North Texas, Oklahoma and Arkansas.
+                                            <p class="disappearsmall">Ryan lives in the Fayetteville, Arkansas area, and represents Smith in North Texas, Oklahoma and Arkansas.
                                             Ryan is an avid outdoorsman, and spent his retail days at a local outfitter.</p>
                                             <p><a href="mailto:ryan@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
@@ -237,7 +237,7 @@
                                             <h3>Paul Loesch</h3>
                                             <h4>Field Technical Rep.</h4>
                                             <p class="disappearsmall">Paul Loesch lives in Austin, Texas.
-                                                Paul is an accomplished outdoor enthusiast, and when he is not in the stores pumping up the brand, he is on the bike spreading Smith love in the trails and on the road. </p>
+                                                Paul is an accomplished outdoor enthusiast, and when he is not in the stores spreading Smith love, he is racing singletrack or laying down miles on his road bike. </p>
                                             <p><a href="mailto:paul@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
                                     </div>
