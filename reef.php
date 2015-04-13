@@ -73,7 +73,7 @@
             <div class="container changeopacity">
                 <div class="row row-centered">
                     <div class="col-lg-9 col-centered">
-                        <img class="reef_logo" src="img/reef.jpg">
+                        <img class="reef_logo" src="img/reeflogo.jpg">
                         <h1>Dealer Access</h1>
                         <h3 style="margin-top: 0;">Crystal Gauthier - Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">crystal_gauthier@vfc.com</a></h4>

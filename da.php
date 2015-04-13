@@ -98,7 +98,7 @@
                     
                     <div class="col-xs-6 col-md-4">
                         <a href="reef.php" class="thumbnail">
-                            <img src="img/reef.jpg">
+                            <img src="img/reeflogo.jpg">
                         </a>
                     </div>
                 </div>
