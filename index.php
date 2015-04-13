@@ -278,7 +278,7 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="img/reef.jpeg" alt="...">
+                                <img src="img/reef.jpg" alt="...">
                                 <div class="carousel-caption">
                                     REEF
                                 </div>
