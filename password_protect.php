@@ -167,7 +167,7 @@ function showLoginPasswordProtect($error_msg) {
                     <div class="col-lg-12">
                         <div class="container contact">
                             <div class="row">
-                                <div class="col-sm-4" style="color: white;">
+                                <div class="col-sm-4">
                                     <h4>Dealer Access</h4>
                                     <hr>
                                     <address>

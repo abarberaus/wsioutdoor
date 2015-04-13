@@ -70,7 +70,7 @@
                     <div class="col-lg-12">
                         <div class="container contact">
                             <div class="row">
-                                    <div class="col-sm-4" style="color: white;">
+                                    <div class="col-sm-4 contentbox">
                                         <h4>Drop us a line!</h4>
                                         <hr>
                                         <address>
