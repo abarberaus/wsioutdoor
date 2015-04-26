@@ -107,15 +107,15 @@
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
+                                        <a href="http://www.wsioutdoor.com/index.php#brands">Our Brands</a>
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
+                                        <a href="http://www.wsioutdoor.com/index.php#team">Our Team</a>
                                     </li>
                                     <li class="footer-menu-divider">&sdot;</li>
                                     <li>
-                                        <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
+                                        <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
                                     </li>
                                 </ul>
                                 <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
