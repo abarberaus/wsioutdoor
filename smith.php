@@ -75,9 +75,9 @@
                     <div class="col-lg-9 col-centered">
                         <img class="smith_logo margins" src="img/Smith_Logo_Primary_Final.png">
                         <h1>Dealer Access</h1>
-                        <h3 style="margin-top: 0;">Liz Ward - Dealer Service Rep</h3>
-                        <h4><a  style="margin-top: 0;" href="mailto:lward@smithoptics.com" data-rel="external">lward@smithoptics.com</a></h4>
-                        <h4><a  style="margin-top: 0;" href="tel:12087276581" data-rel="external">+1 (208) 727-6581</a></h4>
+                        <h3 style="margin-top: 0;">Cody Brice - Dealer Service Rep</h3>
+                        <h4><a  style="margin-top: 0;" href="mailto:Cody.Brice@smithoptics.com" data-rel="external">Cody.Brice@smithoptics.com</a></h4>
+                        <h4><a  style="margin-top: 0;" href="tel:12087276581" data-rel="external">1 (800) 635-4401 X 6503</a></h4>
                         <div class="download_box col-lg-9 col-centered">
                             <a href="https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">
                                 <div class="around">
