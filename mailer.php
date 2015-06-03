@@ -1,13 +1,12 @@
 <?php 
 if(isset($_POST['submit'])){
-    $myemail = "aaron@wsioutdoor.com"; // this is your Email address
+    $to = "aaron@wsioutdoor.com"; // this is your Email address
     $from = $_POST['inputEmail']; // this is the sender's Email address
     $name = $_POST['inputName'];
     $subject = $_POST['inputSubject'];
-    $message = $_POST['inputMessage'];
-    $my_message = "Someone has sent you a message using your contact form: " + "Name: " + $name + " " + "Email: " + $email + " " + "Subject: " + $subject + " " + "Message: " + $message +".";
-    $headers = "From:" . $from;
-    mail($myemail,$subject,$my_message,$headers);
+    $my_message = $_POST['inputMessage'];
+    $message = "Someone has sent you a message using your contact form: " + "Name: " + $name + " " + "Email: " + $from + " " + "Subject: " + $subject + " " + "Message: " + $my_message +".";
+    mail($to,$subject,$message);
     header("Location: http://www.wsioutdoor.com");
 
     // You can also use header('Location: thank_you.php'); to redirect to another page.
