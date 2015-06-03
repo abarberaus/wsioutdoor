@@ -52,7 +52,7 @@
                             <a href="index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="da.php">Dealer Access</a>
+                            <a href="da.php">Dealer Access</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -70,18 +70,18 @@
                     <div class="col-lg-12">
                         <div class="container contact">
                             <div class="row">
-                                    <div class="col-sm-4 contentbox">
-                                        <h4>Drop us a line!</h4>
-                                        <hr>
-                                        <address>
-                                            <p>Are you looking to carry one of our lines?</p>
-                                            <p>Do you need support for a clinic or event?</p> 
-                                            <p>Just let us know, and we're glad to help!</p>
-                                            <br><br>
-                                            <strong>Phone:</strong> (208) 484-8538
-                                        </address>
-                                    </div>
-                          
+                                <div class="col-sm-4 contentbox">
+                                    <h4>Drop us a line!</h4>
+                                    <hr>
+                                    <address>
+                                        <p>Are you looking to carry one of our lines?</p>
+                                        <p>Do you need support for a clinic or event?</p>
+                                        <p>Just let us know, and we're glad to help!</p>
+                                        <br><br>
+                                        <strong>Phone:</strong> (208) 484-8538
+                                    </address>
+                                </div>
+                                
                                 
                                 <div class="col-sm-8 contact-form">
                                     <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">
@@ -118,47 +118,47 @@
                                     </form>
                                 </div>
                             </div>
-                                    
+                            
                         </div>
                     </div>
                 </div>
-                        <!-- /.container -->
+                <!-- /.container -->
             </div>
-                    <!-- /.intro-header -->
-                    <!-- Page Content -->
-                    <!-- /.banner -->
+            <!-- /.intro-header -->
+            <!-- Page Content -->
+            <!-- /.banner -->
         </div>
-                    <!-- Footer -->
-                    <footer class="contact_footer">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <ul class="list-inline">
-                                        <li>
-                                            <a href="http://www.wsioutdoor.com/">Home</a>
-                                        </li>
-                                        <li class="footer-menu-divider">&sdot;</li>
-                                        <li>
-                                            <a href="index.html#brands">Our Brands</a>
-                                        </li>
-                                        <li class="footer-menu-divider">&sdot;</li>
-                                        <li>
-                                            <a href="index.html#team">Our Team</a>
-                                        </li>
-                                        <li class="footer-menu-divider">&sdot;</li>
-                                        <li>
-                                            <a href="#contact">Contact</a>
-                                        </li>
-                                    </ul>
-                                    <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
-                                </div>
-                            </div>
-                        </div>
-                    </footer>
-                    <!-- jQuery Version 1.11.0 -->
-                    <script src="js/jquery-1.11.0.js"></script>
-                    <!-- Bootstrap Core JavaScript -->
-                    <script src="js/bootstrap.min.js"></script>
-                    <script src="js/main.js"></script>
-                </body>
-            </html>
+        <!-- Footer -->
+        <footer class="contact_footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="http://www.wsioutdoor.com/">Home</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="index.html#brands">Our Brands</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="index.html#team">Our Team</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                        <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- jQuery Version 1.11.0 -->
+        <script src="js/jquery-1.11.0.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
