@@ -7,7 +7,7 @@ if(isset($_POST['submit'])){
     $message = $_POST['inputMessage'];
     $my_message = "Someone has sent you a message using your contact form: " + "Name: " + $name + " " + "Email: " + $email + " " + "Subject: " + $subject + " " + "Message: " + $message +".";
     $headers = "From:" . $from;
-    mail($to,$subject,$my_message,$headers);
+    mail($myemail,$subject,$my_message,$headers);
     header("Location: http://www.wsioutdoor.com");
 
     // You can also use header('Location: thank_you.php'); to redirect to another page.
