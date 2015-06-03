@@ -86,25 +86,25 @@
                                 <div class="col-sm-8 contact-form">
                                     <form name="contactform" method="post" action="mailer.php" class="form-horizontal" role="form">
                                         <div class="form-group">
-                                            <label for="inputName" class="col-lg-2 control-label">Name</label>
+                                            <label for="inputName" class="col-lg-2 control-label"></label>
                                             <div class="col-lg-10">
                                                 <input type="text" class="form-control" id="inputName" name="inputName" placeholder="Your Name" required>
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputEmail" class="col-lg-2 control-label">Email</label>
+                                            <label for="inputEmail" class="col-lg-2 control-label"></label>
                                             <div class="col-lg-10">
                                                 <input type="text" class="form-control" id="inputEmail" name="inputEmail" placeholder="Your Email" required>
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputSubject" class="col-lg-2 control-label">Subject</label>
+                                            <label for="inputSubject" class="col-lg-2 control-label"></label>
                                             <div class="col-lg-10">
                                                 <input type="text" class="form-control" id="inputSubject" name="inputSubject" placeholder="Subject Message">
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="inputPassword1" class="col-lg-2 control-label">Message</label>
+                                            <label for="inputPassword1" class="col-lg-2 control-label"></label>
                                             <div class="col-lg-10">
                                                 <textarea class="form-control" rows="4" id="inputMessage" name="inputMessage" placeholder="Your message..."></textarea>
                                             </div>
