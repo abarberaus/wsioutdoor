@@ -90,11 +90,11 @@
                                 Quick Order Forms here!<span class="caret"></span>
                                 </button>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#">Top 25 Lifestyle</a></li>
-                                    <li><a href="https://docs.google.com/forms/d/1q1Ho0iWy8JgxQS9Vh5H_s5bX8FqdkGyjgBbB6bFNby0/viewform">Top 25 Bike</a></li>
-                                    <li><a href="#">Top 25 Fish</a></li>
-                                    <li><a href="#">Top 25 Suncloud</a></li>
-                                    <li><a href="#">Top 25 Forecast</a></li>
+                                    <li><a href="https://docs.google.com/forms/d/1gFEl7CRugF3y2dodmnZXcl89ecAg6xVVkHeqXmNOAaE/viewform" target="_blank">Top 25 Lifestyle</a></li>
+                                    <li><a href="https://docs.google.com/forms/d/1q1Ho0iWy8JgxQS9Vh5H_s5bX8FqdkGyjgBbB6bFNby0/viewform" target="_blank">Top 25 Bike</a></li>
+                                    <li><a href="#" target="_blank">Top 25 Fish</a></li>
+                                    <li><a href="https://docs.google.com/forms/d/18OSqsxOxdJoYbud9cb4zKMGogxB8P8lOVE1G-adaJDg/viewform" target="_blank">Top 25 Suncloud</a></li>
+                                    <li><a href="#" target="_blank">Top 25 Forecast</a></li>
                                 </ul>
                             </div>
                             <br>
