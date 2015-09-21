@@ -86,7 +86,8 @@
                                 </div>
                             </a>
                         </div>
-                        <iframe width="560" height="300" frameborder="0" src="http://enewspaper.makemynewspaper.com/embed/62/outdoortech/odt-winter-catalog/56/49967_1/2513/3188"></iframe>
+                        <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=5884e714-c0b9-420c-a38c-09e9e78c3053&amp;theme=theme3">
+                    </iframe>
                     </div>
                     </div><!-- /.container -->
                 </div>
