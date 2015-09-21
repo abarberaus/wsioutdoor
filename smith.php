@@ -78,69 +78,95 @@
                         <h3 style="margin-top: 0;">Cody Brice - Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:Cody.Brice@smithoptics.com" data-rel="external">Cody.Brice@smithoptics.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:12087276581" data-rel="external">1 (800) 635-4401 X 6503</a></h4>
-                        <div class="download_box col-lg-9 col-centered">
-                            <a href="https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">
-                                <div class="around">
-                                    <p>Find Dealer Documents Here</p>
-                                    <img id="download" src="img/download.png">
-                                </div>
-                            </a>
-                            <div class="btn-group">
-                                <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
-                                Quick Order Forms here!<span class="caret"></span>
+                        <div class="btn-group" role="group" aria-label="...">
+                            <button type="button" class="btn btn-lg btn-info" data-toggle="modal" data-target="#myModal">Smith B2B Setup Instructions</button>
+                            
+                            <button type="button" class="btn btn-lg btn-default">Dealer Documents</button>
+                            <div class="btn-group" role="group">
+                                <button type="button" class="btn btn-lg btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                Quick Order Forms
+                                <span class="caret"></span>
                                 </button>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="https://docs.google.com/forms/d/1gFEl7CRugF3y2dodmnZXcl89ecAg6xVVkHeqXmNOAaE/viewform" target="_blank">Top 25 Lifestyle</a></li>
-                                    <li><a href="https://docs.google.com/forms/d/1q1Ho0iWy8JgxQS9Vh5H_s5bX8FqdkGyjgBbB6bFNby0/viewform" target="_blank">Top 25 Bike</a></li>
-                                    <li><a href="#" target="_blank">Top 25 Fish</a></li>
-                                    <li><a href="https://docs.google.com/forms/d/18OSqsxOxdJoYbud9cb4zKMGogxB8P8lOVE1G-adaJDg/viewform" target="_blank">Top 25 Suncloud</a></li>
-                                    <li><a href="#" target="_blank">Top 25 Forecast</a></li>
-                                </ul>
-                            </div>
-                            <br>
-                            <br>
+                                <ul class="dropdown-menu" role="menu"> <li><a href="https://docs.google.com/forms/d/1gFEl7CRugF3y2dodmnZXcl89ecAg6xVVkHeqXmNOAaE/viewform" target="_blank">Top 25 Lifestyle</a></li>
+                                <li><a href="https://docs.google.com/forms/d/1q1Ho0iWy8JgxQS9Vh5H_s5bX8FqdkGyjgBbB6bFNby0/viewform" target="_blank">Top 25 Bike</a></li>
+                                <li><a href="#" target="_blank">Top 25 Fish</a></li>
+                                <li><a href="https://docs.google.com/forms/d/18OSqsxOxdJoYbud9cb4zKMGogxB8P8lOVE1G-adaJDg/viewform" target="_blank">Top 25 Suncloud</a></li>
+                                <li><a href="#" target="_blank">Top 25 Forecast</a></li>
+                            </ul>
                         </div>
-                        <!--Original Shelf!> <iframe id="bloxFrame" name="bloxFrame" height="300px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663">
-                        </iframe> </!-->
-                        <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663&amp;theme=theme3">
-                        </iframe>
                     </div>
-                    </div><!-- /.container -->
+                    <br>
+                    <br>
+                    <!--Original Shelf!> <iframe id="bloxFrame" name="bloxFrame" height="300px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663">
+                    </iframe> </!-->
+                    <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663&amp;theme=theme3">
+                    </iframe>
                 </div>
-                <!-- /.intro-header -->
-                <!-- Page Content -->
-                <!-- /.banner -->
-                <!-- Footer -->
-                <footer class="footer myfooter">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <ul class="list-inline">
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/">Home</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                                <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
-                            </div>
+                </div><!-- /.container -->
+            </div>
+            <!-- /.intro-header -->
+            <!-- Page Content -->
+            <!-- /.banner -->
+            <!-- Footer -->
+            <footer class="footer myfooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <ul class="list-inline">
+                                <li>
+                                    <a href="http://www.wsioutdoor.com/">Home</a>
+                                </li>
+                                <li class="footer-menu-divider">&sdot;</li>
+                                <li>
+                                    <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
+                                </li>
+                                <li class="footer-menu-divider">&sdot;</li>
+                                <li>
+                                    <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
+                                </li>
+                                <li class="footer-menu-divider">&sdot;</li>
+                                <li>
+                                    <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
+                                </li>
+                            </ul>
+                            <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
                         </div>
                     </div>
-                </footer>
-                <!-- jQuery Version 1.11.0 -->
-                <script src="js/jquery-1.11.0.js"></script>
-                <!-- Bootstrap Core JavaScript -->
-                <script src="js/bootstrap.min.js"></script>
-                <script src="js/main.js"></script>
-            </body>
-        </html>
+                </div>
+            </footer>
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                    
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Smith B2B Instructions</h4>
+                        </div>
+                        <div class="modal-body" style="text-align: left;">
+                            <ol>
+                                <li><a href="http://www.b2b.smithoptics.com" target="_blank">www.b2b.smithoptics.com</a></li>
+                                <li>Click <strong>New User? Register Now!</strong></li>
+                                <li>Registration Code is your 6 digit Smith account number</li>
+                                <li>Fill out the form</li>
+                                <li>Approval should be instant. Log in and create your order.</li>
+                            </ol>
+                            <ul class="list-inline">
+                                <li>For questions contact 208.726.4477, or e-mail <a href="mailto:SmithOpticsB2B@smithoptics.com" target="_blank">SmithOpticsB2B@smithoptics.com</a></li>
+                            </ul>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!-- jQuery Version 1.11.0 -->
+            <script src="js/jquery-1.11.0.js"></script>
+            <!-- Bootstrap Core JavaScript -->
+            <script src="js/bootstrap.min.js"></script>
+            <script src="js/main.js"></script>
+        </body>
+    </html>
