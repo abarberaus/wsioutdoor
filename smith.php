@@ -81,7 +81,7 @@
                         <div class="btn-group" role="group" aria-label="...">
                             <button type="button" class="btn btn-lg btn-info" data-toggle="modal" data-target="#myModal">Smith B2B Setup Instructions</button>
                             
-                            <button type="button" class="btn btn-lg btn-default"><a href"https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">Dealer Documents</a></button>
+                            <button type="button" class="btn btn-lg btn-default"><a href"https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">Dealer Documents</button></a>
                             <div class="btn-group" role="group">
                                 <button type="button" class="btn btn-lg btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                                 Quick Order Forms
@@ -89,9 +89,7 @@
                                 </button>
                                 <ul class="dropdown-menu" role="menu"> <li><a href="https://docs.google.com/forms/d/1gFEl7CRugF3y2dodmnZXcl89ecAg6xVVkHeqXmNOAaE/viewform" target="_blank">Top 25 Lifestyle</a></li>
                                 <li><a href="https://docs.google.com/forms/d/1q1Ho0iWy8JgxQS9Vh5H_s5bX8FqdkGyjgBbB6bFNby0/viewform" target="_blank">Top 25 Bike</a></li>
-                                <li><a href="#" target="_blank">Top 25 Fish</a></li>
                                 <li><a href="https://docs.google.com/forms/d/18OSqsxOxdJoYbud9cb4zKMGogxB8P8lOVE1G-adaJDg/viewform" target="_blank">Top 25 Suncloud</a></li>
-                                <li><a href="#" target="_blank">Top 25 Forecast</a></li>
                             </ul>
                         </div>
                     </div>
