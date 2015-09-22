@@ -81,7 +81,7 @@
                         <div class="btn-group" role="group" aria-label="...">
                             <button type="button" class="btn btn-lg btn-info" data-toggle="modal" data-target="#myModal">Smith B2B Setup Instructions</button>
                             
-                            <button type="button" class="btn btn-lg btn-default"><a href"https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0">Dealer Documents</button></a>
+                            <button type="button" class="btn btn-lg btn-default">Dealer Documents</button>
                             <div class="btn-group" role="group">
                                 <button type="button" class="btn btn-lg btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                                 Quick Order Forms
