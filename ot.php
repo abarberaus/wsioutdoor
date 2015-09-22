@@ -78,14 +78,15 @@
                         <h3 style="margin-top: 0;">Sofi Danielson - Sales Coordinator</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:sofi@outdoortech.com" data-rel="external">sofi@outdoortech.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:23102997764" data-rel="external">+1 (310) 299-7764</a></h4>
-                        <div class="download_box col-lg-9 col-centered">
-                            <a href="https://www.dropbox.com/sh/8y6xlpeqgciggi3/AADP7iMiFXVc-EAyPst1pfBka?dl=0">
-                                <div class="around">
-                                    <p>Find Dealer Documents Here</p>
-                                    <img id="download" src="img/download.png">
-                                </div>
-                            </a>
+                        <div class="btn-group" role="group" aria-label="...">
+                            <a href="https://www.dropbox.com/sh/8y6xlpeqgciggi3/AADP7iMiFXVc-EAyPst1pfBka?dl=0"><button type="button" class="btn btn-lg btn-default">Dealer Documents</button></a>
+                                <a href="https://docs.google.com/forms/d/1An4Jz8zdU-l4YyYyoD4Xe8499fxo-8q2ba3ttr6eMLs/viewform"><button type="button" class="btn btn-lg btn-default">
+                                Quick Order Form
+                                </button></a>
                         </div>
+                        <br>
+                        <br>
+                    </div>
                         <div data-configid="12522436/30224170" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     </div>
                     </div><!-- /.container -->
