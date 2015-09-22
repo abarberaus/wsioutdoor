@@ -86,8 +86,7 @@
                                 </div>
                             </a>
                         </div>
-                        <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=5884e714-c0b9-420c-a38c-09e9e78c3053&amp;theme=theme3">
-                    </iframe>
+                        <div data-configid="12522436/30224170" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     </div>
                     </div><!-- /.container -->
                 </div>
