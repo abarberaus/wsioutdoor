@@ -80,8 +80,7 @@
                         <h4><a  style="margin-top: 0;" href="tel:12087276581" data-rel="external">1 (800) 635-4401 X 6503</a></h4>
                         <div class="btn-group" role="group" aria-label="...">
                             <button type="button" class="btn btn-lg btn-info" data-toggle="modal" data-target="#myModal">Smith B2B Setup Instructions</button>
-                            
-                            <button type="button" class="btn btn-lg btn-default">Dealer Documents</button>
+                            <a href="https://www.dropbox.com/sh/j6csxh06upory38/AABoJ9_ZUqQeksNxegFKQgRra?dl=0"class= "btn btn-lg btn-primary">Dealer Documents</button></a>
                             <div class="btn-group" role="group">
                                 <button type="button" class="btn btn-lg btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                                 Quick Order Forms
