@@ -75,7 +75,7 @@
                     <div class="col-lg-10 col-centered">
                         <img class="arc_logo" src="img/arcteryxlogo.png">
                         <h1>Dealer Access</h1>
-                        <h3 style="margin-top: 0;">Marie-Josee Levesque- Dealer Service Rep</h3>
+                        <h3 style="margin-top: 0;">Marie-Josee Levesque <strong>-</strong> Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:service.delta@arcteryx.com" data-rel="external">service.delta@arcteryx.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18662391099" data-rel="external">+1 (866) 239-1099</a></h4>
                         <div class="download_box col-lg-9 col-centered">
