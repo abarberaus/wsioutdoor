@@ -75,9 +75,9 @@
                     <div class="col-lg-9 col-centered">
                         <img class="reef_logo" src="img/reeflogo.jpg">
                         <h1>Dealer Access</h1>
-                        <h3 style="margin-top: 0;">Crystal Gauthier - Dealer Service Rep</h3>
-                        <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">crystal_gauthier@vfc.com</a></h4>
-                        <h4><a  style="margin-top: 0;" href="tel:18004236855 ext. 1985" data-rel="external">+1 (800) 423 6855 Ext. 1985</a></h4>
+                        <h3 style="margin-top: 0;">Randolph S. O’Neil - Dealer Service Rep</h3>
+                        <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">Randy_O_neil@vfc.com</a></h4>
+                        <h4><a  style="margin-top: 0;" href="tel:18004236855 ext. 1985" data-rel="external">+1 (800) 423-6855 ext. 1521</a></h4>
                         <div class="download_box col-lg-9 col-centered">
                             <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0">
                                 <div class="around">

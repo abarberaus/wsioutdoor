@@ -102,33 +102,39 @@
                                         <img src="img/Smith_Logo_Primary_Final.png" class="smith">
                                     </a>
                                 </div>
-                                
-                                
-                                
                                 <div class="col-xs-6 col-md-4">
                                     <a class="thumbnail">
                                         <img src="img/arcteryxlogo.png">
                                     </a>
                                 </div>
-                                
-                                
-                                
                                 <div class="col-xs-6 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/reeflogo.jpg">
+                                        <img src="img/salomon.png">
                                     </a>
                                 </div>
                             </div>
                             <div class="row">
-                                <div id="centerthebottom" class="col-xs-6 col-md-6">
+                                <div class="col-xs-6 col-md-4">
                                     <a class="thumbnail">
                                         <img src="img/hotchillyslogo.png">
                                     </a>
                                 </div>
-                                
-                                <div class="col-xs-6 col-md-6">
+                                <div class="col-xs-6 col-md-4">
+                                    <a class="thumbnail">
+                                        <img src="img/atomic.png">
+                                    </a>
+                                </div>
+                                <div class="col-xs-6 col-md-4">
                                     <a class="thumbnail">
                                         <img src="img/OTlogo.jpg">
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6 col-md-12 col-md-offset-4">
+                                    <a class="thumbnail">
+                                        <img src="img/reeflogo.jpg">
                                     </a>
                                 </div>
                                 
@@ -214,21 +220,7 @@
                             <!--END ROW 1 -->
                             <!--ROW 2 -->
                             <div class="row">
-                                <div class="col-sm-6 col-md-4">
-                                    <div class="thumbnail">
-                                        <div class="img-div">
-                                            <img src="img/ryan1.jpg" />
-                                        </div>
-                                        <div class="caption">
-                                            <h3>Ryan Folkes</h3>
-                                            <h4>Sales Rep.</h4>
-                                            <p class="disappearsmall">Ryan lives in the Fayetteville, Arkansas area, and represents Smith in North Texas, Oklahoma and Arkansas.
-                                            Ryan is an avid outdoorsman, and spent his retail days at a local outfitter.</p>
-                                            <p><a href="mailto:ryan@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-4">
+                                <div class="col-sm-6 col-md-6">
                                     <div class="thumbnail">
                                         <div class="img-div">
                                             <img src="img/paul1.jpg" />
@@ -242,7 +234,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-6 col-md-4">
+                                <div class="col-sm-6 col-md-6">
                                     <div class="thumbnail">
                                         <div class="img-div">
                                             <img src="img/carmen1.jpg" />
@@ -323,7 +315,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-6 socialbottom">
+                        <div class="col-lg-12 socialbottom">
                             <ul class="list-inline banner-social-buttons">
                                 <li>
                                     <a target="_blank" href="https://www.facebook.com/wsioutdoorpage" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
