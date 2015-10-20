@@ -97,44 +97,44 @@
                         <div class="container">
                             <h1>Our Brands</h1>
                             <div class="row">
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/Smith_Logo_Primary_Final.png" class="smith">
+                                        <img src="img/smithgray.png" class="smith">
                                     </a>
                                 </div>
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/arcteryxlogo.png">
+                                        <img src="img/arcgray.png">
                                     </a>
                                 </div>
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/salomon.png">
+                                        <img src="img/salomongray.png">
                                     </a>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/hotchillyslogo.png">
+                                        <img src="img/hotchillysgray.png">
                                     </a>
                                 </div>
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/atomic.png">
+                                        <img src="img/atomicgray.png">
                                     </a>
                                 </div>
-                                <div class="col-xs-6 col-md-4">
+                                <div class="col-xs-12 col-md-4">
                                     <a class="thumbnail">
-                                        <img src="img/OTlogo.jpg">
+                                        <img src="img/reefgray.png">
                                     </a>
                                 </div>
                                 
                             </div>
                             <div class="row">
-                                <div class="col-xs-6 col-md-12 col-md-offset-4">
+                                <div class="col-xs-12 col-md-12 col-md-offset-4">
                                     <a class="thumbnail">
-                                        <img src="img/reeflogo.jpg">
+                                        <img src="img/outdoortechgray.png">
                                     </a>
                                 </div>
                                 
