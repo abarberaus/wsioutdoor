@@ -94,7 +94,7 @@
                     <!-- /.intro-header -->
                     <!-- Page Content -->
                     <div id="brands" class="content-section-a">
-                        <div class="container">
+                        <div class="container center-anchor">
                             <h1>Our Brands</h1>
                             <div class="row">
                                 <div class="col-xs-12 col-md-4">
@@ -132,7 +132,7 @@
                                 
                             </div>
                             <div class="row">
-                                <div class="col-xs-12 col-md-12 col-md-offset-4">
+                                <div class="col-xs-12 col-md-4 col-md-offset-4">
                                     <a class="thumbnail">
                                         <img src="img/outdoortechgray.png">
                                     </a>
