@@ -73,7 +73,7 @@
             <div class="container changeopacity">
                 <div class="row row-centered">
                     <div class="col-lg-9 col-centered">
-                        <img class="smith_logo" src="img/OTlogo.jpg">
+                        <img src="img/outdoorgeargray.png">
                         <h1>Dealer Access</h1>
                         <h3 style="margin-top: 0;">Sofi Danielson - Sales Coordinator</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:sofi@outdoortech.com" data-rel="external">sofi@outdoortech.com</a></h4>
