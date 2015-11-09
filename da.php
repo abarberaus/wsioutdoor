@@ -102,7 +102,7 @@
                         </a>
                     </div>
                     <div class="col-xs-6 col-md-3">
-                        <a href="reef.php" class="thumbnail">
+                        <a href="atomicsalomon.php" class="thumbnail">
                             <img src="img/atomicgray.png">
                         </a>
                     </div>
@@ -121,12 +121,12 @@
                     </div>
 
                     <div class="col-xs-6 col-md-3">
-                        <a href="ot.php" class="thumbnail">
+                        <a href="og.php" class="thumbnail">
                             <img src="img/outdoorgeargray.png">
                         </a>
                     </div>
                     <div class="col-xs-6 col-md-3">
-                        <a href="ot.php" class="thumbnail">
+                        <a href="atomicsalomon.php" class="thumbnail">
                             <img src="img/salomongray.png">
                         </a>
                     </div>
