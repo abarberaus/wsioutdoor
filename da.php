@@ -80,38 +80,54 @@
                                     <div class="container">
                 <h1>Click the Brand for Dealer Page</h1>
                 <div class="row">
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-6 col-md-3">
                         <a href="smith.php" class="thumbnail">
-                            <img src="img/Smith_Logo_Primary_Final.png" class="smith">
+                            <img src="img/smithgray.png" class="smith">
                         </a>
                     </div>
                     
                     
                     
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-6 col-md-3">
                         <a href="arcteryx.php" class="thumbnail">
-                            <img src="img/arcteryxlogo.png">
+                            <img src="img/arcgray.png">
                         </a>
                     </div>
                     
                     
                     
-                    <div class="col-xs-6 col-md-4">
+                    <div class="col-xs-6 col-md-3">
                         <a href="reef.php" class="thumbnail">
-                            <img src="img/reeflogo.jpg">
+                            <img src="img/reefgray.png">
+                        </a>
+                    </div>
+                    <div class="col-xs-6 col-md-3">
+                        <a href="reef.php" class="thumbnail">
+                            <img src="img/atomicgray.png">
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <div id="centerthebottom" class="col-xs-6 col-md-6">
+                    <div class="col-xs-6 col-md-3">
                         <a href="hotchillys.php" class="thumbnail">
-                            <img src="img/hotchillyslogo.png">
+                            <img src="img/hotchillysgray.png">
                         </a>
                     </div>
                     
-                    <div class="col-xs-6 col-md-6">
+                    <div class="col-xs-6 col-md-3">
                         <a href="ot.php" class="thumbnail">
-                            <img src="img/OTlogo.jpg">
+                            <img src="img/outdoortechgray.png">
+                        </a>
+                    </div>
+
+                    <div class="col-xs-6 col-md-3">
+                        <a href="ot.php" class="thumbnail">
+                            <img src="img/outdoorgeargray.png">
+                        </a>
+                    </div>
+                    <div class="col-xs-6 col-md-3">
+                        <a href="ot.php" class="thumbnail">
+                            <img src="img/salomongray.png">
                         </a>
                     </div>
                     
