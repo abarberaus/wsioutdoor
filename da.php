@@ -1,5 +1,4 @@
 <?php include("/var/www/wsioutdoor/password_protect.php"); ?>
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -54,7 +53,7 @@
                             <a href="http://www.wsioutdoor.com/index.php#showroom">Our Showroom</a>
                         </li>
                         <li>
-                          <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
+                            <a href="http://www.wsioutdoor.com/da.php">Dealer Access</a>
                         </li>
                         <li>
                             <a href="http://www.wsioutdoor.com/contact.php">Contact</a>
@@ -75,110 +74,105 @@
                     <div class="col-lg-12">
                         <div class="container contact">
                             <div class="row">
-                                    
+                                
                                 <div class="col-sm-8 changeopacity">
                                     <div class="container">
-                <h1>Click the Brand for Dealer Page</h1>
-                <div class="row">
-                    <div class="col-xs-6 col-md-3">
-                        <a href="smith.php" class="thumbnail">
-                            <img src="img/smithgray.png" class="smith">
-                        </a>
-                    </div>
-                    
-                    
-                    
-                    <div class="col-xs-6 col-md-3">
-                        <a href="arcteryx.php" class="thumbnail">
-                            <img src="img/arcgray.png">
-                        </a>
-                    </div>
-                    
-                    
-                    
-                    <div class="col-xs-6 col-md-3">
-                        <a href="reef.php" class="thumbnail">
-                            <img src="img/reefgray.png">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 col-md-3">
-                        <a href="atomicsalomon.php" class="thumbnail">
-                            <img src="img/atomicgray.png">
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-6 col-md-3">
-                        <a href="hotchillys.php" class="thumbnail">
-                            <img src="img/hotchillysgray.png">
-                        </a>
-                    </div>
-                    
-                    <div class="col-xs-6 col-md-3">
-                        <a href="ot.php" class="thumbnail">
-                            <img src="img/outdoortechgray.png">
-                        </a>
-                    </div>
-
-                    <div class="col-xs-6 col-md-3">
-                        <a href="og.php" class="thumbnail">
-                            <img src="img/outdoorgeargray.png">
-                        </a>
-                    </div>
-                    <div class="col-xs-6 col-md-3">
-                        <a href="atomicsalomon.php" class="thumbnail">
-                            <img src="img/salomongray.png">
-                        </a>
-                    </div>
-                    
-                </div>
-                
-                
-                
-            </div>
+                                        <h1>Click the Brand for Dealer Page</h1>
+                                        <div class="row">
+                                            
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="arcteryx.php" class="thumbnail">
+                                                    <img src="img/arcgray.png">
+                                                </a>
+                                            </div>
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="smith.php" class="thumbnail">
+                                                    <img src="img/smithgray.png" class="smith">
+                                                </a>
+                                            </div>
+                                            
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="atomicsalomon.php" class="thumbnail">
+                                                    <img src="img/atomicgray.png">
+                                                </a>
+                                            </div>
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="atomicsalomon.php" class="thumbnail">
+                                                    <img src="img/salomongray.png">
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="reef.php" class="thumbnail">
+                                                    <img src="img/reefgray.png">
+                                                </a>
+                                            </div>
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="hotchillys.php" class="thumbnail">
+                                                    <img src="img/hotchillysgray.png">
+                                                </a>
+                                            </div>
+                                            
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="og.php" class="thumbnail">
+                                                    <img src="img/outdoorgeargray.png">
+                                                </a>
+                                            </div>
+                                            <div class="col-xs-6 col-md-3">
+                                                <a href="ot.php" class="thumbnail">
+                                                    <img src="img/outdoortechgray.png">
+                                                </a>
+                                            </div>
+                                            
+                                        </div>
+                                        
+                                        
+                                        
+                                    </div>
                                 </div>
                             </div>
-                                    
+                            
                         </div>
                     </div>
                 </div>
-                        <!-- /.container -->
+                <!-- /.container -->
             </div>
-                    <!-- /.intro-header -->
-                    <!-- Page Content -->
-                    <!-- /.banner -->
+            <!-- /.intro-header -->
+            <!-- Page Content -->
+            <!-- /.banner -->
         </div>
-                    <!-- Footer -->
-                <footer class="footer myfooter contact_footer">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <ul class="list-inline">
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/">Home</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
-                                    </li>
-                                    <li class="footer-menu-divider">&sdot;</li>
-                                    <li>
-                                        <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                                <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
-                            </div>
-                        </div>
+        <!-- Footer -->
+        <footer class="footer myfooter contact_footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="list-inline">
+                            <li>
+                                <a href="http://www.wsioutdoor.com/">Home</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="http://www.wsioutdoor.com/index.html#brands">Our Brands</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="http://www.wsioutdoor.com/index.html#team">Our Team</a>
+                            </li>
+                            <li class="footer-menu-divider">&sdot;</li>
+                            <li>
+                                <a href="http://www.wsioutdoor.com/contact.html">Contact</a>
+                            </li>
+                        </ul>
+                        <p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
                     </div>
-                </footer>
-                    <!-- jQuery Version 1.11.0 -->
-                    <script src="js/jquery-1.11.0.js"></script>
-                    <!-- Bootstrap Core JavaScript -->
-                    <script src="js/bootstrap.min.js"></script>
-                    <script src="js/main.js"></script>
-                </body>
-            </html>
+                </div>
+            </div>
+        </footer>
+        <!-- jQuery Version 1.11.0 -->
+        <script src="js/jquery-1.11.0.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
