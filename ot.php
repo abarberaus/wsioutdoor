@@ -78,6 +78,7 @@
                         <h3 style="margin-top: 0;">Sofi Danielson - Sales Coordinator</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:sofi@outdoortech.com" data-rel="external">sofi@outdoortech.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:23102997764" data-rel="external">+1 (310) 299-7764</a></h4>
+                        <br>
                         <div class="btn-group" role="group" aria-label="...">
                             <a href="https://www.dropbox.com/sh/8y6xlpeqgciggi3/AADP7iMiFXVc-EAyPst1pfBka?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
                                 <a href="https://docs.google.com/forms/d/1An4Jz8zdU-l4YyYyoD4Xe8499fxo-8q2ba3ttr6eMLs/viewform"class="btn btn-lg btn-default">
