@@ -78,13 +78,8 @@
                         <h3 style="margin-top: 0;">Marie-Josee Levesque <strong>-</strong> Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:service.delta@arcteryx.com" data-rel="external">service.delta@arcteryx.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18662391099" data-rel="external">+1 (866) 239-1099</a></h4>
-                        <div class="download_box col-lg-9 col-centered">
-                            <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0">
-                                <div class="around">
-                                    <p>Find Dealer Documents Here</p>
-                                    <img id="download" src="img/download.png">
-                                </div>
-                            </a>
+                        <div class="btn-group" role="group" aria-label="...">
+                            <a href="https://www.dropbox.com/sh/6v0mcz1jqv6xcfa/AADItYorYunBids93YHzxWpVa?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
                         </div>
                         <br>
                         <br>
