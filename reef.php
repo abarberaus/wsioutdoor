@@ -79,7 +79,7 @@
                         <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">Randy_O_neil@vfc.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18004236855 ext. 1985" data-rel="external">+1 (800) 423-6855 ext. 1521</a></h4>
                         <br>
-                        <br>
+
                         <div class="btn-group" role="group" aria-label="...">
                             <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
                         </div>
