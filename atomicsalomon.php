@@ -85,6 +85,8 @@
                         <br>
                     </div>
                         <div data-configid="12522436/31248866" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+                        <br>
+                        <div data-configid="12522436/31249954" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     </div>
                     </div><!-- /.container -->
                 </div>
