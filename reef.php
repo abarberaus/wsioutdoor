@@ -78,13 +78,10 @@
                         <h3 style="margin-top: 0;">Randolph S. O’Neil - Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:crystal_gauthier@vfc.com" data-rel="external">Randy_O_neil@vfc.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:18004236855 ext. 1985" data-rel="external">+1 (800) 423-6855 ext. 1521</a></h4>
-                        <div class="download_box col-lg-9 col-centered">
-                            <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0">
-                                <div class="around">
-                                    <p>Find Dealer Documents Here</p>
-                                    <img id="download" src="img/download.png">
-                                </div>
-                            </a>
+                        <br>
+                        <br>
+                        <div class="btn-group" role="group" aria-label="...">
+                            <a href="https://www.dropbox.com/sh/4xzanetm7pl6s00/AACeQrb7Yo_8Y657rDyYvG2Ua?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
                         </div>
                         
                         <!-- <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=c98e3a99-1a07-498f-acd3-683db8c270c3">
