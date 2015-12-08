@@ -151,7 +151,19 @@
                             <h1>Our Team</h1>
                             <!--Principal-->
                             <div class="row">
-                                
+                                <div class="col-sm-6 col-md-offset-4 col-md-4">
+                                    <div class="thumbnail">
+                                        <div class="img-div">
+                                            <img src="img/wade1.jpg"/>
+                                        </div>
+                                        <div id="wade" class="caption">
+                                            <h3>Wade Windom</h3>
+                                            <h4>Principal Rep.</h4>
+                                            <p class="disappearsmall">Wade started repping in 1995 a few years after graduating college. He incorporated into WSI in 2001.  While he had no idea at the time, this was the best decision he have ever made.  He truly loves what he does and is honored to have such great partners.</p>
+                                            <p><a href="mailto:wade@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                             <!--End Principal row-->
                             <!--ROW 1 -->

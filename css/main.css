@@ -18,7 +18,9 @@ height: 50%;
  float: left;
 }
 #wade{
-  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
 }
 div.img-div{
     height:200px;

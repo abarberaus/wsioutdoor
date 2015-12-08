@@ -78,6 +78,7 @@
                         <h3 style="margin-top: 0;">Chris Miller - Customer Service Manager</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:cmiller@outdoorgearinc.com" data-rel="external">cmiller@outdoorgearinc.com</a></h4>
                         <h4><a  style="margin-top: 0;" href="tel:8777002372" data-rel="external">1 (877)700-2372 ext. 113</a></h4>
+                        <br>
                         <div class="btn-group" role="group" aria-label="...">
                             <a href="https://www.dropbox.com/sh/jikcbqjyfzabf6r/AABEBvPd6MibvzebZTOYicqha?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
                         </div>
