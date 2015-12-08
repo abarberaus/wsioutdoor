@@ -174,19 +174,6 @@
                                             <img src="img/wade1.jpg"/>
                                         </div>
                                         <div class="caption">
-                                            <h3>Wade Windom</h3>
-                                            <h4>Principal Rep.</h4>
-                                            <p class="disappearsmall">Wade started repping in 1995 a few years after graduating college. He incorporated into WSI in 2001.  While he had no idea at the time, this was the best decision he have ever made.  He truly loves what he does and is honored to have such great partners.</p>
-                                            <p><a href="mailto:wade@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-4">
-                                    <div class="thumbnail">
-                                        <div class="img-div">
-                                            <img src="img/tom1.jpg"/>
-                                        </div>
-                                        <div class="caption">
                                             <h3>Tom Westveld</h3>
                                             <h4>Sales Rep.</h4>
                                             <p class="disappearsmall">Tom joined WSI in April 2006.
@@ -199,7 +186,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/aaron1.jpg"/>
+                                            <img src="img/tom1.jpg"/>
                                         </div>
                                         <div class="caption">
                                             <h3>Aaron Barber</h3>
@@ -208,6 +195,21 @@
                                                 He loves climbing in Oregon, surfing in El Salvador and enjoying live music everywhere. You can usually find him on a bike.
                                             He lives with his wife, Kate, in downtown Austin.</p>
                                             <p><a href="mailto:aaron@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-4">
+                                    <div class="thumbnail">
+                                        <div class="img-div">
+                                            <img src="img/aaron1.jpg"/>
+                                        </div>
+                                        <div class="caption">
+                                            <h3>Ashlee Newman</h3>
+                                            <h4>Sales Rep.</h4>
+                                            <p class="disappearsmall">Ashlee joined WSI in 2012.
+                                                She enjoys fishing, photography and camping.
+                                            An avid traveler, Ashlee now calls Austin, Texas home.</p>
+                                            <p><a href="mailto:ashlee@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
                                     </div>
                                 </div>
@@ -222,21 +224,6 @@
                                             <img src="img/ashlee1.jpg" />
                                         </div>
                                         <div class="caption">
-                                            <h3>Ashlee Newman</h3>
-                                            <h4>Sales Rep.</h4>
-                                            <p class="disappearsmall">Ashlee joined WSI in 2012.
-                                                She enjoys fishing, photography and camping.
-                                            An avid traveler, Ashlee now calls Austin, Texas home.</p>
-                                            <p><a href="mailto:ashlee@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-4">
-                                    <div class="thumbnail">
-                                        <div class="img-div">
-                                            <img src="img/paul1.jpg" />
-                                        </div>
-                                        <div class="caption">
                                             <h3>Paul Loesch</h3>
                                             <h4>Field Technical Rep.</h4>
                                             <p class="disappearsmall">Paul Loesch lives in Austin, Texas.
@@ -248,7 +235,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/carmen1.jpg" />
+                                            <img src="img/paul1.jpg" />
                                         </div>
                                         <div class="caption">
                                             <h3>Carmen Zamzow Hart</h3>
@@ -256,6 +243,19 @@
                                             <p class="disappearsmall">Joined the team in 2011.
                                             Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She loves traveling, skiing, and soccer.</p>
                                             <p><a href="mailto:cgzamzow@gmail.com" class="btn btn-primary" role="button">Contact</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-4">
+                                    <div class="thumbnail">
+                                        <div class="img-div">
+                                            <img src="img/ray.jpg" />
+                                        </div>
+                                        <div class="caption">
+                                            <h3>Ray Delong</h3>
+                                            <h4>Sales Rep. / Agency Support Manager</h4>
+                                            <p class="disappearsmall">Joined WSI Outdoor in 2015. Ray is originally from Oklahoma City, but now calls Austin, TX home.  Ray enjoys paddling, fly fishing, cycling, and traveling as much as possible.</p>
+                                            <p><a href="mailto:ray@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
                                     </div>
                                 </div>
