@@ -156,7 +156,7 @@
                                         <div class="img-div">
                                             <img src="img/wade1.jpg"/>
                                         </div>
-                                        <div id="wade" class="caption">
+                                        <div class="caption">
                                             <h3>Wade Windom</h3>
                                             <h4>Principal Rep.</h4>
                                             <p class="disappearsmall">Wade started repping in 1995 a few years after graduating college. He incorporated into WSI in 2001.  While he had no idea at the time, this was the best decision he have ever made.  He truly loves what he does and is honored to have such great partners.</p>
@@ -171,7 +171,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/wade1.jpg"/>
+                                            <img src="img/tom1.jpg"/>
                                         </div>
                                         <div class="caption">
                                             <h3>Tom Westveld</h3>
@@ -186,7 +186,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/tom1.jpg"/>
+                                            <img src="img/aaron1.jpg"/>
                                         </div>
                                         <div class="caption">
                                             <h3>Aaron Barber</h3>
@@ -201,7 +201,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/aaron1.jpg"/>
+                                            <img src="img/ashlee1.jpg"/>
                                         </div>
                                         <div class="caption">
                                             <h3>Ashlee Newman</h3>
@@ -221,7 +221,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/ashlee1.jpg" />
+                                            <img src="img/paul1.jpg" />
                                         </div>
                                         <div class="caption">
                                             <h3>Paul Loesch</h3>
@@ -235,7 +235,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/paul1.jpg" />
+                                            <img src="img/carmen1.jpg" />
                                         </div>
                                         <div class="caption">
                                             <h3>Carmen Zamzow Hart</h3>
@@ -277,31 +277,38 @@
                             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                             <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                             <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
                         </ol>
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="img/reef.jpg" alt="...">
+                                <img src="img/facade.jpg" alt="...">
+                                <div class="carousel-caption">
+                                    Our Showroom in Round Rock, TX
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="img/reefshoes.jpg" alt="...">
                                 <div class="carousel-caption">
                                     REEF
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="img/arc.jpeg" alt="...">
+                                <img src="img/reefapp.jpg" alt="...">
+                                <div class="carousel-caption">
+                                    REEF Apparel
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="img/arcroom.jpg" alt="...">
                                 <div class="carousel-caption">
                                     Arc'teryx
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="img/arcbags.jpeg" alt="...">
+                                <img src="img/arcbagsshoes.jpg" alt="...">
                                 <div class="carousel-caption">
-                                    Arc'teryx Bags
-                                </div>
-                            </div>
-                            <div class="item">
-                                <img src="img/smith.jpeg" alt="...">
-                                <div class="carousel-caption">
-                                    Smith Optics
+                                    Arc'teryx Footwear
                                 </div>
                             </div>
                         </div>
