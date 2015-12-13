@@ -151,7 +151,7 @@
                             <h1>Our Team</h1>
                             <!--Principal-->
                             <div class="row">
-                                <div class="col-sm-6 col-md-offset-4 col-md-4">
+                                <div class="col-sm-6 col-md-offset-2 col-md-8">
                                     <div class="thumbnail">
                                         <div class="img-div">
                                             <img src="img/wade1.jpg"/>
