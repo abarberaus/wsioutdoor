@@ -235,7 +235,7 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/carmen1.jpg" />
+                                            <img src="img/carmen.jpg" />
                                         </div>
                                         <div class="caption">
                                             <h3>Carmen Zamzow Hart</h3>
