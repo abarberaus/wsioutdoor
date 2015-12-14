@@ -252,8 +252,8 @@
                                             <img src="img/ray.jpg" />
                                         </div>
                                         <div class="caption">
-                                            <h3>Ray Delong</h3>
-                                            <h4>Sales Rep. / Agency Support Manager</h4>
+                                            <h3>Ray DeLong</h3>
+                                            <h4>Sales Rep. </h4>
                                             <p class="disappearsmall">Joined WSI Outdoor in 2015. Ray is originally from Oklahoma City, but now calls Austin, TX home.  Ray enjoys paddling, fly fishing, cycling, and traveling as much as possible.</p>
                                             <p><a href="mailto:ray@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
