@@ -85,9 +85,9 @@
                         <br>
                         <br>
                     </div>
-                        <div data-configid="12522436/31248866" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+                        <div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="http://issuu.com/amer-se/docs/atomic_alpine_catalogue_1516_eng_lo" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>
                         <br>
-                        <div data-configid="12522436/31249954" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+                        <div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="http://issuu.com/snowsport_pl/docs/salomon_catalog2016_hardgoods" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>
                     </div>
                     </div><!-- /.container -->
                 </div>
