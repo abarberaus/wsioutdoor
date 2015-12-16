@@ -73,7 +73,7 @@
             <div class="container changeopacity">
                 <div class="row row-centered">
                     <div class="col-lg-9 col-centered">
-                        <img src="img/atomicsalomon.png">
+                        <img class="smith_logo" src="img/atomicsalomon.png">
                         <h1>Dealer Access</h1>
                         <h3 style="margin-top: 0;">Josh Olsen - Dealer Service Rep</h3>
                         <h4><a  style="margin-top: 0;" href="mailto:josh.olsen@amersports.com" data-rel="external">josh.olsen@amersports.com</a></h4>
