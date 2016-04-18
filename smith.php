@@ -94,6 +94,7 @@
                     </div>
                     <br>
                     <br>
+                    <div data-configid="12522436/34998758" style="width:650px; height:424px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     <!--Original Shelf!> <iframe id="bloxFrame" name="bloxFrame" height="300px" width="100%" frameborder="0" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663">
                     </iframe> </!-->
                     <iframe id="bloxFrame" name="bloxFrame" height="200px" width="100%" frameborder="2" scrolling="auto" src="http://static.issuu.com/widgets/shelf/index.html?folderId=22dd6217-fc84-408b-8288-e60faf1de663&amp;theme=theme3">
