@@ -1,11 +1,11 @@
 <?php 
 if(isset($_POST['submit'])){
-    $to = " aaron@wsioutdoor.com"; // this is your Email address
+    $to = "abarberaus@gmail.com"; // this is your Email address
     $from = $_POST['inputEmail']; // this is the sender's Email address
     $name = $_POST['inputName'];
     $subject = $_POST['inputSubject'];
     $my_message = $_POST['inputMessage'];
-    $message = "Someone has sent you a message using your contact form: " + "Name: " + $name + " " + "Email: " + $from + " " + "Subject: " + $subject + " " + "Message: " + $my_message +".";
+    $message = "Someone has sent you a message using your contact form: " . "Name: " . $name . " " . "Email: " . $from . " " . "Subject: " . $subject . " " . "Message: " . $my_message . ".";
     mail($to, $subject, $message);
     header("Location: thank_you.php");
 

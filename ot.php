@@ -1,4 +1,4 @@
-<?php include("/var/www/wsioutdoor/password_protect.php"); ?>
+<?php include("/home/windomsalesinc/public_html/password_protect.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -88,7 +88,7 @@
                         <br>
                         <br>
                     </div>
-                        <div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="http://issuu.com/outdoortech/docs/odt_catalog_2015" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>
+                         <div data-configid="12522436/34998654" style="width:650px; height:412px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
                     </div>
                     </div><!-- /.container -->
                 </div>

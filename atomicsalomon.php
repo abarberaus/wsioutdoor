@@ -1,4 +1,4 @@
-<?php include("/var/www/wsioutdoor/password_protect.php"); ?>
+<?php include("/home/windomsalesinc/public_html/password_protect.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>

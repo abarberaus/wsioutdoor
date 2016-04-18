@@ -96,9 +96,18 @@ text-align: center;
   padding-left: 296px;
 }}
 
-@media (max-width: 415px){.disappearsmall {
-  display: none;
-  }}
+@media (max-width: 415px){
+
+  .disappearsmall {
+    display: none;
+    }
+}
+
+@media (max-width: 767px){
+  div.img-div {
+    margin:0 auto;
+  }
+}
 
 #team {
   background-color: #E5E4E2;
