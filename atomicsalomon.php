@@ -75,9 +75,9 @@
                     <div class="col-lg-9 col-centered">
                         <img class="smith_logo" src="img/atomicsalomon.png">
                         <h1>Dealer Access</h1>
-                        <h3 style="margin-top: 0;">Josh Olsen - Dealer Service Rep</h3>
-                        <h4><a  style="margin-top: 0;" href="mailto:josh.olsen@amersports.com" data-rel="external">josh.olsen@amersports.com</a></h4>
-                        <h4><a  style="margin-top: 0;" href="tel:8016247500" data-rel="external">+1 (801) 624-7500 ext: 2591</a></h4>
+                        <h3 style="margin-top: 0;">Kim Broschinsky - Dealer Service Rep</h3>
+                        <h4><a  style="margin-top: 0;" href="mailto:Kim.Broschinsky@amersports.com" data-rel="external">Kim.Broschinsky@amersports.com</a></h4>
+                        <h4><a  style="margin-top: 0;" href="tel:8006542668" data-rel="external">1-800-654-2668</a></h4>
                         <br>
                         <div class="btn-group" role="group" aria-label="...">
                             <a href="https://www.dropbox.com/sh/pwex6zn8v22cd0b/AAAbkYciKU-KzCBWqav12_Gsa?dl=0" class="btn btn-lg btn-default">Dealer Documents</button></a>
