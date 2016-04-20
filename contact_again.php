@@ -186,7 +186,7 @@ if (!$errName && !$errEmail && !$errMessage) {
 								<a href="#contact">Contact</a>
 							</li>
 						</ul>
-						<p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2014. All Rights Reserved</p>
+						<p class="copyright text-muted small">Copyright &copy; Windom Sales Incorporated 2016. All Rights Reserved</p>
 					</div>
 				</div>
 			</div>
