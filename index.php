@@ -289,15 +289,15 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="img/reefshoes.jpg" alt="...">
+                                <img src="img/reeftv.jpg" alt="...">
                                 <div class="carousel-caption">
                                     REEF
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="img/reefapp.jpg" alt="...">
+                                <img src="img/reeftable.jpg" alt="...">
                                 <div class="carousel-caption">
-                                    REEF Apparel
+                                    REEF
                                 </div>
                             </div>
                             <div class="item">
