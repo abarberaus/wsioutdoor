@@ -202,15 +202,14 @@
                                 <div class="col-sm-6 col-md-4">
                                     <div class="thumbnail">
                                         <div class="img-div">
-                                            <img src="img/ashlee1.jpg"/>
+                                            <img src="img/carmen.jpg" />
                                         </div>
                                         <div class="caption">
-                                            <h3>Ashlee Newman</h3>
-                                            <h4>Sales Rep.</h4>
-                                            <p class="disappearsmall">Ashlee joined WSI in 2012.
-                                                She enjoys fishing, photography and camping.
-                                            An avid traveler, Ashlee now calls Austin, Texas home.</p>
-                                            <p><a href="mailto:ashlee@wsioutdoor.com" class="btn btn-primary" role="button">Contact</a>
+                                            <h3>Carmen Zamzow Hart</h3>
+                                            <h4>Sales Rep. / Agency Support Manager</h4>
+                                            <p class="disappearsmall">Joined the team in 2011.
+                                            Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She loves traveling, skiing, and soccer.</p>
+                                            <p><a href="mailto:cgzamzow@gmail.com" class="btn btn-primary" role="button">Contact</a>
                                         </div>
                                     </div>
                                 </div>
@@ -219,7 +218,7 @@
                             <!--END ROW 1 -->
                             <!--ROW 2 -->
                             <div class="row">
-                                <div class="col-sm-6 col-md-4">
+                                <div class="col-sm-6 col-md-6">
                                     <div class="thumbnail">
                                         <div class="img-div">
                                             <img src="img/paul1.jpg" />
@@ -233,21 +232,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-sm-6 col-md-4">
-                                    <div class="thumbnail">
-                                        <div class="img-div">
-                                            <img src="img/carmen.jpg" />
-                                        </div>
-                                        <div class="caption">
-                                            <h3>Carmen Zamzow Hart</h3>
-                                            <h4>Sales Rep. / Agency Support Manager</h4>
-                                            <p class="disappearsmall">Joined the team in 2011.
-                                            Originally an Idaho native, Carmen now resides in Denver, Colorado with her husband, Bret. She loves traveling, skiing, and soccer.</p>
-                                            <p><a href="mailto:cgzamzow@gmail.com" class="btn btn-primary" role="button">Contact</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-4">
+                                <div class="col-sm-6 col-md-6">
                                     <div class="thumbnail">
                                         <div class="img-div">
                                             <img src="img/ray.jpg" />
